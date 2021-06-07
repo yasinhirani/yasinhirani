@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasinhirani
-- 👀 I’m interested in coding
+- 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning front-end web development
 - 📫 Reach me at hiraniyasin3854@gmail.com
 
